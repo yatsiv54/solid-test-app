@@ -1,3 +1,1 @@
-# test_solid
-
-A new Flutter project.
+## Test task for Solid Software
